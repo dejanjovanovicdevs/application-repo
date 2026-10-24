@@ -1,1 +1,1 @@
-print("HEELLLOO PIICKYYY")
+print("HELLO PICKEEEE")
